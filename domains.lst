@@ -1,5 +1,6 @@
 nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/iplocation.net/4#inet#fw4#vpn_domains
+nftset=/2ip.io/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/mylocation.org/4#inet#fw4#vpn_domains
